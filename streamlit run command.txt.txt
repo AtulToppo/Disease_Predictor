@@ -1,0 +1,2 @@
+streamlit run "Path of The DiseasePrediction.py file"
+For e.g-'C/users/hi/..../DiseasePrediction.py'
