@@ -3,9 +3,9 @@ import streamlit as st
 import pandas as pd
 
 #loading the saved models
-diabetes_model = pickle.load(open(r'C:\Users\atul toppo\Documents\Disease Predictor\models\diabetes_modal.pkl','rb'))
-heart_model = pickle.load(open(r'C:\Users\atul toppo\Documents\Disease Predictor\models\heart_modal.pkl','rb'))
-breast_model =pickle.load(open(r'C:\Users\atul toppo\Documents\Disease Predictor\models\breast_modal.pkl','rb'))
+diabetes_model = pickle.load(open(r'./models/diabetes_modal.pkl','rb'))
+heart_model = pickle.load(open(r'./models/heart_modal.pkl','rb'))
+breast_model =pickle.load(open(r'./models/breast_modal.pkl','rb'))
 
 #sidebar for navigate
 
