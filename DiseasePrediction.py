@@ -1,7 +1,6 @@
 import pickle
 import streamlit as st
 import pandas as pd
-from streamlit_option_menu import option_menu
 
 #loading the saved models
 diabetes_model = pickle.load(open(r'C:\Users\atul toppo\Documents\Disease Predictor\models\diabetes_modal.pkl','rb'))
@@ -11,9 +10,8 @@ breast_model =pickle.load(open(r'C:\Users\atul toppo\Documents\Disease Predictor
 #sidebar for navigate
 
 with st.sidebar:
-    selected = option_menu('Multiple Disease prediction',['Diabetes','Heart','Breast-Cancer'],
-                                        icons=["person","activity","flower1"],
-                                        default_index=0)
+    st.markdown("<h1 style='text-align: center;'>Multiple Disease Prediction</h1>", unsafe_allow_html=True)
+    selected = st.selectbox(' ',['Diabetes','Heart','Breast-Cancer'])
 
 #Diabetes prediction page
 if(selected == 'Diabetes'):
