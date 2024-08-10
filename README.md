@@ -28,3 +28,8 @@ health, or diabetes risk, our app provides you with the tools and insights to le
    For installing these packages just open the command Terminal and write "pip install <package-name>"
 #
 **For running this app go to root directory in which the main file is saved i.e "DiseasePrediction.py" and run "streamlit run DiseasePrediction.py"**
+
+# Snapshots
+![Alt text](./Screenshot 2024-08-10 102124)
+![Alt text](./Screenshot 2024-08-10 102154)
+![Alt text](./Screenshot 2024-08-10 102257)
