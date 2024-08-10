@@ -30,6 +30,6 @@ health, or diabetes risk, our app provides you with the tools and insights to le
 **For running this app go to root directory in which the main file is saved i.e "DiseasePrediction.py" and run "streamlit run DiseasePrediction.py"**
 
 # Snapshots
-![Alt text](./Screenshot 2024-08-10 102124.png)
-![Alt text](./Screenshot 2024-08-10 102154.png)
-![Alt text](./Screenshot 2024-08-10 102257.png)
+![Alt text](./Screenshot%202024-08-10%20102124.png)
+![Alt text](./Screenshot%202024-08-10%20102154.png)
+![Alt text](./Screenshot%202024-08-10%20102257.png)
