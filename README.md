@@ -14,7 +14,8 @@ With our Disease Prediction App, you can:
 5. **Health Monitoring:** Continuously track your health status and receive regular updates. The app's user-friendly interface makes it easy to monitor
    your progress and make informed decisions about your health.
 
-7. **Preventive Measures:** Receive expert guidance on preventive measures, lifestyle changes, and screenings to reduce your risk. By following our
+# Future Updates
+**Preventive Measures:** Receive expert guidance on preventive measures, lifestyle changes, and screenings to reduce your risk. By following our
    app's recommendations, you can take proactive steps to maintain your well-being.
 
 Empower yourself with knowledge and take control of your health with our Disease Prediction App. Whether you're concerned about your heart, breast 
